@@ -1,0 +1,2 @@
+﻿We are hiring a Software Engineer with 2+ years of experience to build scalable full-stack web applications. The candidate must have hands-on experience with React, TypeScript, Node.js, Express, PostgreSQL, REST APIs, Docker, AWS, GitHub Actions, CI/CD, JWT authentication, testing, and performance optimization. Experience with Redis, OAuth, Linux, and Playwright is preferred. Responsibilities include building reusable UI components, designing backend APIs, improving database performance, containerizing services, and collaborating with cross-functional product teams.
+

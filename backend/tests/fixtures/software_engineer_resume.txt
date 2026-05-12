@@ -1,0 +1,37 @@
+﻿Riya Sharma
+Software Engineer
+riya.sharma@example.com | Bengaluru, India | github.com/riya-sharma
+
+SUMMARY
+Software engineer with 3 years of experience building full-stack web applications using React, TypeScript, Node.js, Express, PostgreSQL, Docker, and AWS. Strong background in REST APIs, CI/CD, testing, and performance optimization.
+
+SKILLS
+Languages: JavaScript, TypeScript, Python, SQL
+Frontend: React, HTML, CSS, Tailwind CSS, Vite
+Backend: Node.js, Express, REST APIs, JWT, OAuth
+Database: PostgreSQL, Redis, MongoDB
+Cloud & DevOps: AWS, Docker, GitHub Actions, CI/CD, Linux
+Testing: Jest, Playwright, API testing
+
+EXPERIENCE
+Software Engineer, CloudNova Labs | 2021 - 2024
+- Built reusable React and TypeScript components for a SaaS analytics dashboard used by 25,000 monthly users.
+- Designed Node.js and Express REST APIs with PostgreSQL queries, improving response latency by 35%.
+- Containerized services with Docker and deployed production workloads on AWS using GitHub Actions CI/CD.
+- Implemented JWT authentication, role-based access, and API test coverage for critical workflows.
+
+PROJECTS
+HireIQ Career Platform
+- Developed an AI career assistant with ATS resume analysis, mock interviews, roadmap generation, and fake job detection.
+- Built React dashboards, Flask APIs, Socket.IO events, and MySQL persistence for real-time analysis.
+
+E-Commerce Order Service
+- Created a Node.js service with Express, PostgreSQL, Redis caching, Docker, and REST APIs.
+- Added unit tests and CI/CD pipeline to validate deployments.
+
+EDUCATION
+Bachelor of Technology in Computer Science, 2021
+
+CERTIFICATIONS
+AWS Cloud Practitioner
+
